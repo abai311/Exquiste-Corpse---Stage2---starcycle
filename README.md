@@ -53,7 +53,7 @@ Second, processes within a star, such as nuclear fusion in its core, occur at in
 ### 🟨 Stage 2
 - Name/Alias: Antara Baijal  
 - Github account: https://github.com/abai311
-- Published webpage for stage 2:  https://abai311.github.io/Exquisite-Corpse-Stage-2-starcycle/
+- Published webpage for stage 2: https://abai311.github.io/Exquiste-Corpse---Stage2---starcycle/
 
 **stage two:**
 
